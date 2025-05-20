@@ -1,0 +1,5 @@
+Manzana,10.50
+Pan,15.75
+Leche,22.30
+Queso,45.00
+Jabón,18.90
